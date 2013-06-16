@@ -20,7 +20,7 @@
         "javascript"
     ],
     "dependencies": {
-        "module-deps": "~0.7.1",
+        "module-deps": "git://github.com/andreypopp/module-deps#master",
         "browser-pack": "~0.8.0",
         "shell-quote": "~0.0.1",
         "through": "~2.2.0",
@@ -28,7 +28,7 @@
         "concat-stream": "~0.1.1",
         "insert-module-globals": "~0.2.0",
         "syntax-error": "~0.0.0",
-        "browser-resolve": "~0.1.1",
+        "browser-resolve": "~1.1.0",
         "inherits": "~1.0.0",
         "optimist": "~0.3.5",
         "JSONStream": "~0.4.3",
